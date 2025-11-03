@@ -1,9 +1,5 @@
-```markdown
-# CommentIQ — Tech Stack & Setup (single-file summary)
 
-NOTICE: This file is public and visible to everyone on GitHub. Do not add secrets, credentials, or private notes here.
-
-This file captures a single, focused tech-stack decision and practical starter steps you can add to the repository. It is intentionally compact so you can commit it as-is and use it as the canonical stack reference for the project.
+# CommentIQ 
 
 ## Chosen primary stack (recommended for fastest development & maintainability)
 - Language: TypeScript (Node.js 18+)
@@ -84,5 +80,3 @@ This file captures a single, focused tech-stack decision and practical starter s
 
 ---
 
-If you want this file committed to your repository as-is, I can create a branch and push it for you (for example: setup/stack-doc). Tell me if you want me to push it and which branch name to use.
-```
